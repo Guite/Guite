@@ -11,16 +11,9 @@ Thanks for visiting my GitHub page. I am happy to receive feedback on my activit
 
 #### Main projects
 
-##### Zikula
-
-Zikula is a Symfony-based CMS and application framework.
-
-- [:link: Website](https://ziku.la/en/)
-- [Core repository](https://github.com/zikula/core)
-
 ##### ModuleStudio
 
-ModuleStudio is a development tool for modeling and generating Zikula extensions (basically Symfony bundles).
+ModuleStudio is a development tool for modeling and generating Symfony bundles.
 
 - [:link: Website](https://modulestudio.de/en/)
 - [Main repository](https://github.com/Guite/MostGenerator)
@@ -31,6 +24,14 @@ ModuleStudio is a development tool for modeling and generating Zikula extensions
 ![ModuleStudio](https://camo.githubusercontent.com/6c661ad9c8f160ee8af83729e19d5e6a00ba1cf5/68747470733a2f2f6d6f64756c6573747564696f2e64652f696d616765732f646f63756d656e746174696f6e2f75695f6d756c7469706c655f656469746f72732e706e67 "ModuleStudio")
 
 </details>
+
+##### Zikula
+
+Zikula is a Symfony-based CMS and application framework.
+
+- [:link: Website](https://ziku.la/en/)
+- [Core repository](https://github.com/zikula/core)
+
 
 <!--
 **Guite/Guite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
