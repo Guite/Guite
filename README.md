@@ -34,7 +34,7 @@ Zikula is a Symfony-based CMS and application framework.
 
 #### Some contribution stats
 
-![Guite](https://github-readme-stats.vercel.app/api?username=Guite&show_icons=true&locale=en "Guite")
+![Guite](https://github-readme-stats.vercel.app/api?username=Guite&show_icons=true&count_private=true&locale=en "Guite")
 
 <!--
 **Guite/Guite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
