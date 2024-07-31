@@ -29,7 +29,6 @@ ModuleStudio is a development tool for modeling and generating Symfony bundles.
 
 Zikula is a Symfony-based application framework.
 
-- [:link: Website](https://ziku.la/en/)
 - [Core repository](https://github.com/zikula/core)
 
 #### Some contribution stats
